@@ -1,3 +1,8 @@
+> **Note**: By default, you are viewing the `main` branch. To explore different project components, please select from the available branches above:
+> - **data**: Contains raw and processed datasets `Data`
+> - **etl**: `ETL` pipeline and data processing scripts
+> - **dashboard**: Power BI files and visualization components `Dashborad`
+
 # Retail Store Sales – Business Intelligence Project
 
 ## Overview
